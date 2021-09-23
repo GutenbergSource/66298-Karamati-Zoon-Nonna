@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Additional files to be added verbatim to the manifest in the OPF file -->
+<manifest xmlns="http://www.idpf.org/2007/opf">
+    <item id="audio1" href="audio/ninanina.mp3" media-type="audio/mpeg"/>
+    <item id="audio2" href="audio/ninanina.mscz" media-type="application/x-musescore"/>
+</manifest>
